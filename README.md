@@ -1,1 +1,1 @@
-# mobil ilk commit
+Altta raporu bıraktım.
